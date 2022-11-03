@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/josciard/GitHub%20Integration/_apis/build/status/johansciard.ContosoAir?branchName=master)](https://dev.azure.com/josciard/GitHub%20Integration/_build/latest?definitionId=50&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
